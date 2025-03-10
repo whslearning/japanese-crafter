@@ -2,27 +2,29 @@
 
 | Form | Japanese | Romaji | Rule of Conjugation | Usage / Function |
 |---|---|---|---|---|
-| Dictionary Form | <ruby>終<rt>お</rt></ruby>わる | owaru | Base form with no changes | Neutral base form, non-past tense |
-| Negative Form | <ruby>終<rt>お</rt></ruby>わらない | owaranai | Replace "る" → "らない" | "Does not end" |
-| Stem Form | <ruby>終<rt>お</rt></ruby>わり | owari | Replace "る" → "り" | Used for compound verbs / polite forms |
-| Polite Form | <ruby>終<rt>お</rt></ruby>わります | owarimasu | Replace "る" → "ります" | Polite version of "end/finish" |
-| Polite Negative | <ruby>終<rt>お</rt></ruby>わりません | owarimasen | Replace "る" → "りません" | "Does not end" (polite) |
-| Past Tense | <ruby>終<rt>お</rt></ruby>わった | owatta | Replace "る" → "った" | "Ended" |
-| Polite Past | <ruby>終<rt>お</rt></ruby>わりました | owarimashita | Replace "る" → "りました" | "Ended" (polite) |
-| Past Negative | <ruby>終<rt>お</rt></ruby>わらなかった | owaranakatta | Replace "る" → "らなかった" | "Did not end" |
-| Polite Past Negative | <ruby>終<rt>お</rt></ruby>わりませんでした | owarimasen deshita | Replace "る" → "りませんでした" | "Did not end" (polite) |
-| Te-form | <ruby>終<rt>お</rt></ruby>わって | owatte | Replace "る" → "って" | Connecting actions; "and ended" |
-| Te-iru Form | <ruby>終<rt>お</rt></ruby>わっている | owatteiru | "Te-form" + "いる" | "Is ended"/"has been finished" |
-| Conditional | <ruby>終<rt>お</rt></ruby>われば | owareba | Replace "る" → "れば" | "If it ends" |
-| Provisional | <ruby>終<rt>お</rt></ruby>わったら | owattara | Past tense "た" form + "ら" | "If/When it ends" |
-| Imperative (Casual) | <ruby>終<rt>お</rt></ruby>われ | oware | Replace "る" → "れ" | Command: "End!" |
-| Imperative (Polite) | <ruby>終<rt>お</rt></ruby>わってください | owatte kudasai | Te-form + "ください" | Polite request: "Please finish!" |
-| Volitional (Casual) | <ruby>終<rt>お</rt></ruby>わろう | owarou | Replace "る" → "ろう" | "Let's end"/"Shall we end?" |
-| Volitional (Polite) | <ruby>終<rt>お</rt></ruby>わりましょう | owarimashou | Stem form + "ましょう" | Polite "Let's end" |
-| Potential Form | <ruby>終<rt>お</rt></ruby>われる | owareru | Replace "る" → "れる" | "Can be ended" |
-| Causative Form | <ruby>終<rt>お</rt></ruby>わらせる | owaraseru | Replace "る" → "らせる" | "To make someone/something end" |
-| Causative Passive | <ruby>終<rt>お</rt></ruby>わらされる | owarasareru | Causative form + "れる" | "To be made to end" |
-| Passive Form | <ruby>終<rt>お</rt></ruby>わられる | owarareru | Replace "る" → "られる" | "To be ended" |
-| Negative Te-form | <ruby>終<rt>お</rt></ruby>わらなくて | owaranakute | Negative form (終わらない) + "くて" | "Not finishing and..." |
-| Plain Gerundive | <ruby>終<rt>お</rt></ruby>わりつつ | owari tsutsu | Stem form + "つつ" | "While ending..." (literary/formal) |
-| Adverbial Form | <ruby>終<rt>お</rt></ruby>わりに | owari ni | Stem form + "に" | "In the end..." |
+| Dictionary Form | 終わる | owaru | Godan verb: ends in る | Indicates "to end" in plain form |
+| Present Polite | 終わります | owarimasu | Godan verb: る → り + ます | Polite expression of "to end" |
+| Negative Plain | 終わらない | owaranai | Godan verb: る → らない | Indicates "not ending" |
+| Negative Polite | 終わりません | owarimasen | Godan verb: る → り + ません | Polite way to say "not ending" |
+| Past Plain | 終わった | owatta | Godan verb: る → った | Casual expression for "ended" |
+| Past Polite | 終わりました | owarimashita | Godan verb: る → り + ました | Polite past tense ("has ended") |
+| Negative Past Plain | 終わらなかった | owaranakatta | Godan verb: らない → らなかった | Indicates "did not end" casually |
+| Negative Past Polite | 終わりませんでした | owarimasen deshita | Godan verb: る → り + ませんでした | Polite way to say "did not end" |
+| Te-form | 終わって | owatte | Godan verb: る → って | Used to connect actions or show result |
+| Ta-form | 終わった | owatta | Godan verb: る → った | Used in plain past tense sentences |
+| Conditional (~たら) | 終わったら | owattara | Godan verb: った → ったら | Indicates "if/when it ends" |
+| Volitional Plain | 終わろう | owarou | Godan verb: る → ろう | Suggestion or intent: "let's end" |
+| Volitional Polite | 終わりましょう | owarimashou | Godan verb: る → り + ましょう | Polite suggestion or agreement to "end" |
+| Imperative | 終われ | oware | Godan verb: る → れ | Command form: "End it!" |
+| Provisional (~ば) | 終われば | owareba | Godan verb: る → れば | Indicates "if it ends" |
+| Potential Plain | 終われる | owareru | Godan verb: る → れる | Expresses ability: "can end" |
+| Potential Polite | 終われます | owaremasu | Godan verb: れる → れ + ます | Polite expression of ability to "end" |
+| Passive Plain | 終わられる | owarareru | Godan verb: る → られる | Indicates passive voice: "to be ended" |
+| Passive Polite | 終わられます | owararemasu | Godan verb: られる → れ + ます | Polite passive voice ("to be ended") |
+| Causative Plain | 終わらせる | owaraseru | Godan verb: る → らせる | Indicates causative: "to make/force to end" |
+| Causative Polite | 終わらせます | owarasemasu | Godan verb: らせる → せ + ます | Polite causative: "to make/let end politely" |
+| Causative-Passive Plain | 終わらせられる | owaraserareru | Godan verb: らせる → られる | Indicates "to be made/forced to end" |
+| Causative-Passive Polite | 終わらせられます | owaraseraremasu | Godan verb: らせられる → れ + ます | Polite causative/passive voice |
+| Continuative (~ている) | 終わっている | owatte iru | Te-form: 終わって → ている | Expresses ongoing state: "is ending" |
+| Conjunctive (~ます stem) | 終わり | owari | Godan verb: ます Stem: る → り | Used for connecting verbs or compound forms |
+| Hypothetical (~と) | 終わると | owaru to | Godan verb + と conditional | Indicates "when/if it ends" |
