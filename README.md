@@ -4,11 +4,11 @@
 |---|---|---|---|---|
 | Dictionary Form | 終わる | owaru | Godan verb: ends in る | Indicates "to end" in plain form |
 | Present Polite | 終わります | owarimasu | Godan verb: る → り + ます | Polite expression of "to end" |
-| Negative Plain | 終わらない | owaranai | Godan verb: る → らない | Indicates "not ending" |
+| Negative Plain | 終わらない | owaranai | Godan verb: る → ら + ない | Indicates "not ending" |
 | Negative Polite | 終わりません | owarimasen | Godan verb: る → り + ません | Polite way to say "not ending" |
 | Past Plain | 終わった | owatta | Godan verb: る → った | Casual expression for "ended" |
 | Past Polite | 終わりました | owarimashita | Godan verb: る → り + ました | Polite past tense ("has ended") |
-| Negative Past Plain | 終わらなかった | owaranakatta | Godan verb: らない → らなかった | Indicates "did not end" casually |
+| Negative Past Plain | 終わらなかった | owaranakatta | Godan verb: ら + ない → ら + なかった | Indicates "did not end" casually |
 | Negative Past Polite | 終わりませんでした | owarimasen deshita | Godan verb: る → り + ませんでした | Polite way to say "did not end" |
 | Te-form | 終わって | owatte | Godan verb: る → って | Used to connect actions or show result |
 | Ta-form | 終わった | owatta | Godan verb: る → った | Used in plain past tense sentences |
