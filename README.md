@@ -1,4 +1,4 @@
-# Example of a ru-verb
+# Example of a u-verb
 
 | Form | Japanese | Romaji | Rule of Conjugation | Usage / Function |
 |---|---|---|---|---|
